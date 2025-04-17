@@ -1,0 +1,1 @@
+from app.routes.business_rule_routes import  rules_blueprint
